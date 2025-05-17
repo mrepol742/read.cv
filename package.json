@@ -1,0 +1,32 @@
+{
+  "name": "simple-cv-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer-motion": "^11.14.4",
+    "next": "15.0.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-markdown": "^9.0.1",
+    "react-scrollbooster": "^0.1.2",
+    "use-resize-observer": "^9.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "overrides": {
+    "use-resize-observer": {
+      "react": "^19",
+      "react-dom": "^19"
+    }
+  }
+}

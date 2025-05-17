@@ -1,0 +1,408 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "mrepol742",
+    "displayName": "Melvin Jones Gallano Repol",
+    "profession": "Software Engineer",
+    "location": "Caloocan City, Philippines",
+    "pronouns": "He, him",
+    "byline": "Software Engineer in Caloocan City, Philippines, He, him",
+    "website": "https://mrepol742.github.io",
+    "websiteURL": "https://mrepol742.github.io",
+    "about": "Software Engineer | Full Stack Web Developer | SEO | Data Analytics | Embedded System Design with Arduino Programming | Hardware and Software Troubleshooting",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": null
+  },
+  "projects": [
+    {
+      "id": "xWerHA1kqJahX8FFN76D",
+      "year": "Ongoing",
+      "heading": "Orion Chatbot",
+      "url": "https://mrepol742.github.io/project-orion",
+      "collaborators": [],
+      "description": "Meet the lightning-fast Facebook Messenger chatbot, seamlessly managing multiple accounts with access to 271 commands. With distinct privileges for admins, owners, roots, and users, it's the lightweight solution for efficient and personalized interactions.",
+      "attachments": [],
+      "type": "project",
+      "title": "Orion Chatbot",
+      "company": ""
+    },
+    {
+      "id": "sPrUpDgacFpX7nxqrKTr",
+      "year": "Ongoing",
+      "heading": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+      "url": "https://mrepol742.github.io",
+      "collaborators": [],
+      "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
+      "attachments": [],
+      "type": "project",
+      "title": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+      "company": ""
+    },
+    {
+      "id": "D8q2KAyPojhgOPgMfQGy",
+      "year": "Ongoing",
+      "heading": "Webvium Browser",
+      "url": "https://mrepol742.github.io/webvium",
+      "collaborators": [],
+      "description": "A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.",
+      "attachments": [],
+      "type": "project",
+      "title": "Webvium Browser",
+      "company": ""
+    },
+    {
+      "id": "BfaDcCrknMgFBOf4hUbR",
+      "year": "2022",
+      "heading": "Webvium VPN",
+      "url": "https://mrepol742.github.io/webviumvpn",
+      "collaborators": [],
+      "description": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+      "attachments": [],
+      "type": "project",
+      "title": "Webvium VPN",
+      "company": ""
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "hHbB9shsx0EaUspwuvxF",
+      "year": "2021 — Now",
+      "heading": "Bachelor of Science in Information Technology at Bestlink College of the Philippines",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor of Science in Information Technology",
+      "school": "Bestlink College of the Philippines",
+      "location": "Quezon City, Philippines"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "DjfjPy6phJ3RH6e6fOhl",
+      "year": "2024",
+      "heading": "JavaScript Back-end Capstone Project from IBM",
+      "url": "https://www.coursera.org/account/accomplishments/verify/N5L8HX4TMRJ6",
+      "collaborators": [],
+      "description": "N5L8HX4TMRJ6",
+      "attachments": [],
+      "type": "certification",
+      "name": "JavaScript Back-end Capstone Project",
+      "organization": "IBM"
+    },
+    {
+      "id": "TIvVARjzZVz3bHPuN56c",
+      "year": "2024",
+      "heading": "Mastering Laravel Framework and PHP from Board Infinity",
+      "url": "https://www.coursera.org/account/accomplishments/verify/HTBCP5ZAMB7F",
+      "collaborators": [],
+      "description": "HTBCP5ZAMB7F",
+      "attachments": [],
+      "type": "certification",
+      "name": "Mastering Laravel Framework and PHP",
+      "organization": "Board Infinity"
+    },
+    {
+      "id": "tlcCaQJMRw14x8deQwTn",
+      "year": "2024",
+      "heading": "Developing Back-End Apps with Node.js and Express from IBM",
+      "url": "https://www.coursera.org/account/accomplishments/verify/D376A25E39TK",
+      "collaborators": [],
+      "description": "D376A25E39TK",
+      "attachments": [],
+      "type": "certification",
+      "name": "Developing Back-End Apps with Node.js and Express",
+      "organization": "IBM"
+    },
+    {
+      "id": "kovbPq4BkkLhbvoCB2a2",
+      "year": "2024",
+      "heading": "Introduction to Software Engineering from IBM",
+      "url": "https://www.coursera.org/account/accomplishments/records/JN67GSBM4HE5",
+      "collaborators": [],
+      "description": "JN67GSBM4HE5",
+      "attachments": [],
+      "type": "certification",
+      "name": "Introduction to Software Engineering",
+      "organization": "IBM"
+    },
+    {
+      "id": "bFoAi8u3LWc4G6GRZQns",
+      "year": "2024",
+      "heading": "Software Developer Career Guide and Interview Preparation from IBM",
+      "url": "https://www.coursera.org/account/accomplishments/records/EK4LFEGKP4KY",
+      "collaborators": [],
+      "description": "EK4LFEGKP4KY",
+      "attachments": [],
+      "type": "certification",
+      "name": "Software Developer Career Guide and Interview Preparation",
+      "organization": "IBM"
+    },
+    {
+      "id": "sHnj1zuOTJ4h6oEt3UPr",
+      "year": "2023",
+      "heading": "Introduction to DevOps from IBM",
+      "url": "https://www.coursera.org/account/accomplishments/records/UH3LKLXAY5WK",
+      "collaborators": [],
+      "description": "UH3LKLXAY5WK",
+      "attachments": [],
+      "type": "certification",
+      "name": "Introduction to DevOps",
+      "organization": "IBM"
+    }
+  ],
+  "contact": [
+    {
+      "id": "FSY2XyQGaIyawTMxDGpc",
+      "platform": "TikTok",
+      "handle": "mrepol742",
+      "url": "https://tiktok.com/@mrepol742"
+    },
+    {
+      "id": "edPmOm8NjvSNReXNNTke",
+      "platform": "Twitter",
+      "handle": "mrepol742",
+      "url": "https://twitter.com/mrepol742"
+    },
+    {
+      "id": "m8cXfF7CcQzesUFEay7L",
+      "platform": "Youtube",
+      "handle": "https://youtube.com/@mrepol742",
+      "url": "https://youtube.com/@mrepol742"
+    },
+    {
+      "id": "Acp9CCW86CPZxRwyYJtZ",
+      "platform": "LinkedIn",
+      "handle": "mrepol742",
+      "url": "https://linkedin.com/in/mrepol742"
+    },
+    {
+      "id": "XcEfyYNMVjKys5HAiMz9",
+      "platform": "GitHub",
+      "handle": "mrepol742",
+      "url": "https://github.com/mrepol742"
+    },
+    {
+      "id": "WcjF9dg1mNMLkVJ3vXAY",
+      "platform": "Facebook",
+      "handle": "melvinjonesrepol",
+      "url": "https://facebook.com/melvinjonesrepol"
+    },
+    {
+      "id": "toeMgKCt0Eonf20dlZiy",
+      "platform": "Email",
+      "handle": "mrepol742@gmail.com",
+      "url": "mailto:mrepol742@gmail.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "xWerHA1kqJahX8FFN76D",
+          "year": "Ongoing",
+          "heading": "Orion Chatbot",
+          "url": "https://mrepol742.github.io/project-orion",
+          "collaborators": [],
+          "description": "Meet the lightning-fast Facebook Messenger chatbot, seamlessly managing multiple accounts with access to 271 commands. With distinct privileges for admins, owners, roots, and users, it's the lightweight solution for efficient and personalized interactions.",
+          "attachments": [],
+          "type": "project",
+          "title": "Orion Chatbot",
+          "company": ""
+        },
+        {
+          "id": "sPrUpDgacFpX7nxqrKTr",
+          "year": "Ongoing",
+          "heading": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+          "url": "https://mrepol742.github.io",
+          "collaborators": [],
+          "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
+          "attachments": [],
+          "type": "project",
+          "title": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+          "company": ""
+        },
+        {
+          "id": "D8q2KAyPojhgOPgMfQGy",
+          "year": "Ongoing",
+          "heading": "Webvium Browser",
+          "url": "https://mrepol742.github.io/webvium",
+          "collaborators": [],
+          "description": "A Project that aims to be the lightest, fastest, secured, private and full-featured android web browser. Programmed and design from Scratch.",
+          "attachments": [],
+          "type": "project",
+          "title": "Webvium Browser",
+          "company": ""
+        },
+        {
+          "id": "BfaDcCrknMgFBOf4hUbR",
+          "year": "2022",
+          "heading": "Webvium VPN",
+          "url": "https://mrepol742.github.io/webviumvpn",
+          "collaborators": [],
+          "description": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
+          "attachments": [],
+          "type": "project",
+          "title": "Webvium VPN",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "hHbB9shsx0EaUspwuvxF",
+          "year": "2021 — Now",
+          "heading": "Bachelor of Science in Information Technology at Bestlink College of the Philippines",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor of Science in Information Technology",
+          "school": "Bestlink College of the Philippines",
+          "location": "Quezon City, Philippines"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "DjfjPy6phJ3RH6e6fOhl",
+          "year": "2024",
+          "heading": "JavaScript Back-end Capstone Project from IBM",
+          "url": "https://www.coursera.org/account/accomplishments/verify/N5L8HX4TMRJ6",
+          "collaborators": [],
+          "description": "N5L8HX4TMRJ6",
+          "attachments": [],
+          "type": "certification",
+          "name": "JavaScript Back-end Capstone Project",
+          "organization": "IBM"
+        },
+        {
+          "id": "TIvVARjzZVz3bHPuN56c",
+          "year": "2024",
+          "heading": "Mastering Laravel Framework and PHP from Board Infinity",
+          "url": "https://www.coursera.org/account/accomplishments/verify/HTBCP5ZAMB7F",
+          "collaborators": [],
+          "description": "HTBCP5ZAMB7F",
+          "attachments": [],
+          "type": "certification",
+          "name": "Mastering Laravel Framework and PHP",
+          "organization": "Board Infinity"
+        },
+        {
+          "id": "tlcCaQJMRw14x8deQwTn",
+          "year": "2024",
+          "heading": "Developing Back-End Apps with Node.js and Express from IBM",
+          "url": "https://www.coursera.org/account/accomplishments/verify/D376A25E39TK",
+          "collaborators": [],
+          "description": "D376A25E39TK",
+          "attachments": [],
+          "type": "certification",
+          "name": "Developing Back-End Apps with Node.js and Express",
+          "organization": "IBM"
+        },
+        {
+          "id": "kovbPq4BkkLhbvoCB2a2",
+          "year": "2024",
+          "heading": "Introduction to Software Engineering from IBM",
+          "url": "https://www.coursera.org/account/accomplishments/records/JN67GSBM4HE5",
+          "collaborators": [],
+          "description": "JN67GSBM4HE5",
+          "attachments": [],
+          "type": "certification",
+          "name": "Introduction to Software Engineering",
+          "organization": "IBM"
+        },
+        {
+          "id": "bFoAi8u3LWc4G6GRZQns",
+          "year": "2024",
+          "heading": "Software Developer Career Guide and Interview Preparation from IBM",
+          "url": "https://www.coursera.org/account/accomplishments/records/EK4LFEGKP4KY",
+          "collaborators": [],
+          "description": "EK4LFEGKP4KY",
+          "attachments": [],
+          "type": "certification",
+          "name": "Software Developer Career Guide and Interview Preparation",
+          "organization": "IBM"
+        },
+        {
+          "id": "sHnj1zuOTJ4h6oEt3UPr",
+          "year": "2023",
+          "heading": "Introduction to DevOps from IBM",
+          "url": "https://www.coursera.org/account/accomplishments/records/UH3LKLXAY5WK",
+          "collaborators": [],
+          "description": "UH3LKLXAY5WK",
+          "attachments": [],
+          "type": "certification",
+          "name": "Introduction to DevOps",
+          "organization": "IBM"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "FSY2XyQGaIyawTMxDGpc",
+          "platform": "TikTok",
+          "handle": "mrepol742",
+          "url": "https://tiktok.com/@mrepol742"
+        },
+        {
+          "id": "edPmOm8NjvSNReXNNTke",
+          "platform": "Twitter",
+          "handle": "mrepol742",
+          "url": "https://twitter.com/mrepol742"
+        },
+        {
+          "id": "m8cXfF7CcQzesUFEay7L",
+          "platform": "Youtube",
+          "handle": "https://youtube.com/@mrepol742",
+          "url": "https://youtube.com/@mrepol742"
+        },
+        {
+          "id": "Acp9CCW86CPZxRwyYJtZ",
+          "platform": "LinkedIn",
+          "handle": "mrepol742",
+          "url": "https://linkedin.com/in/mrepol742"
+        },
+        {
+          "id": "XcEfyYNMVjKys5HAiMz9",
+          "platform": "GitHub",
+          "handle": "mrepol742",
+          "url": "https://github.com/mrepol742"
+        },
+        {
+          "id": "WcjF9dg1mNMLkVJ3vXAY",
+          "platform": "Facebook",
+          "handle": "melvinjonesrepol",
+          "url": "https://facebook.com/melvinjonesrepol"
+        },
+        {
+          "id": "toeMgKCt0Eonf20dlZiy",
+          "platform": "Email",
+          "handle": "mrepol742@gmail.com",
+          "url": "mailto:mrepol742@gmail.com"
+        }
+      ]
+    }
+  ]
+}
