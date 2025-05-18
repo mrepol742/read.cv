@@ -3,10 +3,10 @@
     "profilePhoto": "/content/media/profilePhoto.jpg",
     "username": "mrepol742",
     "displayName": "Melvin Jones Gallano Repol",
-    "profession": "Software Engineer",
-    "location": "Caloocan City, Philippines",
+    "profession": "Freelance Software Engineer & Fullstack Web Developer",
+    "location": "Taytay, Rizal, Philippines",
     "pronouns": "He, him",
-    "byline": "Software Engineer in Caloocan City, Philippines, He, him",
+    "byline": "Software Engineer in Riza, Philippines, He, him",
     "website": "https://mrepol742.github.io",
     "websiteURL": "https://mrepol742.github.io",
     "about": "Software Engineer | Full Stack Web Developer | SEO | Data Analytics | Embedded System Design with Arduino Programming | Hardware and Software Troubleshooting",
@@ -19,8 +19,56 @@
   },
   "projects": [
     {
-      "id": "xWerHA1kqJahX8FFN76D",
+      "id": "xWerHA1kqJahX8FFN76F",
       "year": "Ongoing",
+      "heading": "Apptrade POS",
+      "url": "https://github.com/mrepol742/apptrade-pos",
+      "collaborators": [],
+      "description": "This project aims to develop a centralized, web-based Point of Sale (POS) system that serves multiple departments within an organization under a single cohesive platform. Designed with resource constraints and security at its core, the system ensures uninterrupted operation even without internet connectivity.",
+      "attachments": [],
+      "type": "project",
+      "title": "Apptrade POS",
+      "company": "Apptrade Inc"
+    },
+    {
+      "id": "xWerHA1kqJahX8FFN76F",
+      "year": "2025",
+      "heading": "Core 1 Axleshift",
+      "url": "https://mrepol742-read-cv.vercel.app",
+      "collaborators": [],
+      "description": "A freight management services. Your shipment Our Platform. Connecting everyone with smarter, faster, and more secure shipping. From first mile to last, we move your world forward. Providing Businesses with cutting-edge platform.",
+      "attachments": [],
+      "type": "project",
+      "title": "Core 1 Axleshift",
+      "company": ""
+    },
+    {
+      "id": "xWerHA1kqJahX8FFN76E",
+      "year": "Ongoing",
+      "heading": "mrepol742-read-cv",
+      "url": "https://mrepol742-read-cv.vercel.app",
+      "collaborators": [],
+      "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
+      "attachments": [],
+      "type": "project",
+      "title": "mrepol742-read-cv",
+      "company": ""
+    },
+    {
+      "id": "xWerHA1kqJahX8FFN76E",
+      "year": "Ongoing",
+      "heading": "mrepol742 @ blog",
+      "url": "https://mrepol742-blog.vercel.app",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "project",
+      "title": "mrepol742 @ blog",
+      "company": ""
+    },
+    {
+      "id": "xWerHA1kqJahX8FFN76D",
+      "year": "2024",
       "heading": "Orion Chatbot",
       "url": "https://mrepol742.github.io/project-orion",
       "collaborators": [],
@@ -28,18 +76,6 @@
       "attachments": [],
       "type": "project",
       "title": "Orion Chatbot",
-      "company": ""
-    },
-    {
-      "id": "sPrUpDgacFpX7nxqrKTr",
-      "year": "Ongoing",
-      "heading": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
-      "url": "https://mrepol742.github.io",
-      "collaborators": [],
-      "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
-      "attachments": [],
-      "type": "project",
-      "title": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
       "company": ""
     },
     {
@@ -91,6 +127,30 @@
     }
   ],
   "certifications": [
+    {
+      "id": "DjfjPy6phJ3RH6e6fOhl",
+      "year": "2025",
+      "heading": "Penetration Testing, Threat Hunting, and Cryptography",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5A84IHRBVEW9",
+      "collaborators": [],
+      "description": "5A84IHRBVEW9",
+      "attachments": [],
+      "type": "certification",
+      "name": "Penetration Testing, Threat Hunting, and Cryptography",
+      "organization": "IBM"
+    },
+    {
+      "id": "DjfjPy6phJ3RH6e6fOhl",
+      "year": "2024",
+      "heading": "Managing Cybersecurity Incidents and Disasters",
+      "url": "https://www.coursera.org/account/accomplishments/verify/47WRV357E5DK",
+      "collaborators": [],
+      "description": "47WRV357E5DK",
+      "attachments": [],
+      "type": "certification",
+      "name": "Managing Cybersecurity Incidents and Disasters",
+      "organization": "Kennesaw State University"
+    },
     {
       "id": "DjfjPy6phJ3RH6e6fOhl",
       "year": "2024",
@@ -213,6 +273,54 @@
       "name": "Projects",
       "items": [
         {
+          "id": "xWerHA1kqJahX8FFN76F",
+          "year": "Ongoing",
+          "heading": "Apptrade POS",
+          "url": "https://github.com/mrepol742/apptrade-pos",
+          "collaborators": [],
+          "description": "This project aims to develop a centralized, web-based Point of Sale (POS) system that serves multiple departments within an organization under a single cohesive platform. Designed with resource constraints and security at its core, the system ensures uninterrupted operation even without internet connectivity.",
+          "attachments": [],
+          "type": "project",
+          "title": "Apptrade POS",
+          "company": "Apptrade Inc"
+        },
+        {
+          "id": "xWerHA1kqJahX8FFN76F",
+          "year": "2025",
+          "heading": "Core 1 Axleshift",
+          "url": "https://mrepol742-read-cv.vercel.app",
+          "collaborators": [],
+          "description": "A freight management services. Your shipment Our Platform. Connecting everyone with smarter, faster, and more secure shipping. From first mile to last, we move your world forward. Providing Businesses with cutting-edge platform.",
+          "attachments": [],
+          "type": "project",
+          "title": "Core 1 Axleshift",
+          "company": ""
+        },
+        {
+          "id": "xWerHA1kqJahX8FFN76E",
+          "year": "Ongoing",
+          "heading": "mrepol742-read-cv",
+          "url": "https://mrepol742-read-cv.vercel.app",
+          "collaborators": [],
+          "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
+          "attachments": [],
+          "type": "project",
+          "title": "mrepol742-read-cv",
+          "company": ""
+        },
+        {
+          "id": "xWerHA1kqJahX8FFN76E",
+          "year": "Ongoing",
+          "heading": "mrepol742 @ blog",
+          "url": "https://mrepol742-blog.vercel.app",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "project",
+          "title": "mrepol742 @ blog",
+          "company": ""
+        },
+        {
           "id": "xWerHA1kqJahX8FFN76D",
           "year": "Ongoing",
           "heading": "Orion Chatbot",
@@ -222,18 +330,6 @@
           "attachments": [],
           "type": "project",
           "title": "Orion Chatbot",
-          "company": ""
-        },
-        {
-          "id": "sPrUpDgacFpX7nxqrKTr",
-          "year": "Ongoing",
-          "heading": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
-          "url": "https://mrepol742.github.io",
-          "collaborators": [],
-          "description": "This is where i showcase my projects, landing pages, tools and other awesome things.",
-          "attachments": [],
-          "type": "project",
-          "title": "Inspired from Webvium, Webvium VPN is a lightweight android VPN app focuses in speed, simplicity, security and privacy.",
           "company": ""
         },
         {
@@ -283,6 +379,30 @@
     {
       "name": "Certifications",
       "items": [
+        {
+          "id": "DjfjPy6phJ3RH6e6fOhl",
+          "year": "2025",
+          "heading": "Penetration Testing, Threat Hunting, and Cryptography",
+          "url": "https://www.coursera.org/account/accomplishments/verify/5A84IHRBVEW9",
+          "collaborators": [],
+          "description": "5A84IHRBVEW9",
+          "attachments": [],
+          "type": "certification",
+          "name": "Penetration Testing, Threat Hunting, and Cryptography",
+          "organization": "IBM"
+        },
+        {
+          "id": "DjfjPy6phJ3RH6e6fOhl",
+          "year": "2024",
+          "heading": "Managing Cybersecurity Incidents and Disasters",
+          "url": "https://www.coursera.org/account/accomplishments/verify/47WRV357E5DK",
+          "collaborators": [],
+          "description": "47WRV357E5DK",
+          "attachments": [],
+          "type": "certification",
+          "name": "Managing Cybersecurity Incidents and Disasters",
+          "organization": "Kennesaw State University"
+        },
         {
           "id": "DjfjPy6phJ3RH6e6fOhl",
           "year": "2024",
