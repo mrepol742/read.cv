@@ -25,8 +25,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="hostname" content="mrepol742-read-cv.vercel.app" />
-        <link rel="canonical" href="https://mrepol742-read-cv.vercel.app" />
+        <meta name="hostname" content="cv.melvinjonesrepol.com" />
+        <link rel="canonical" href="https://cv.melvinjonesrepol.com" />
       </head>
       <body className={`${inter.variable} font-sans`}>
         {children}
